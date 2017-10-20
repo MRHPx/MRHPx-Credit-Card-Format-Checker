@@ -1,4 +1,4 @@
-# MRHPx-Credit-Card-Format-Checker
+# MRHPx Credit Card Format Checker
 
 Tested on Windows 7 Ultimate 32Bit
 
